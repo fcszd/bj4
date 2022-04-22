@@ -1,0 +1,7 @@
+D:\编程\C#\ConsoleApp 4\bin\Debug\ConsoleApp 4.exe.config
+D:\编程\C#\ConsoleApp 4\bin\Debug\ConsoleApp 4.exe
+D:\编程\C#\ConsoleApp 4\bin\Debug\ConsoleApp 4.pdb
+D:\编程\C#\ConsoleApp 4\obj\Debug\ConsoleApp 4.csproj.AssemblyReference.cache
+D:\编程\C#\ConsoleApp 4\obj\Debug\ConsoleApp 4.csproj.CoreCompileInputs.cache
+D:\编程\C#\ConsoleApp 4\obj\Debug\ConsoleApp 4.exe
+D:\编程\C#\ConsoleApp 4\obj\Debug\ConsoleApp 4.pdb
